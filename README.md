@@ -1,1 +1,1 @@
-# tatreez-pos-releases
+Tatreez POS for Windows – installers
